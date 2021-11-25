@@ -1,1 +1,4 @@
-./details.txt
+node_modules
+.env
+config.json
+details.txt
